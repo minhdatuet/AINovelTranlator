@@ -1,0 +1,5 @@
+{
+  "name": "AI Novel Translator",
+  "description": "A professional tool for translating Chinese web novels to Vietnamese using Gemini AI. Features batch processing, glossary management, and a split-view editor.",
+  "requestFramePermissions": []
+}
